@@ -23,7 +23,7 @@ This study uses ready-made, author-tuned SBayesRC weights from PGS Catalog rathe
 
 | Resource | Reference / URL |
 |---|---|
-| AD GWAS — Bellenguez 2022 | GWAS Catalog GCST90027158 |
+| AD GWAS | [GWAS Catalog GCST90565439](https://www.ebi.ac.uk/gwas/studies/GCST90565439) |
 | BP GWAS — Keaton 2024 | n ≈ 1,028,980 EUR meta-analysis (CHARGE / ICBP / MVP / Lifelines) |
 | SBP PRS weights | PGS Catalog **PGS004603** (SBayesRC, hg19, ~7.36 M) |
 | DBP PRS weights | PGS Catalog PGS004604 |

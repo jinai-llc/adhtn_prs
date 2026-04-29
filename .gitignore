@@ -1,0 +1,40 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output figures and intermediate files
+paper_figs/
+*.pdf
+*.png
+*.svg
+
+# PRS weights and large data files
+*.txt.gz
+*.tsv.gz
+*.vcf.gz
+*.h5
+*.hdf5
+*.bed
+*.bim
+*.fam
+PRS_hg38/
+PRS_hg19/
+ldblk_*/
+results/
+results_htn/
+
+# OS / IDE noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
+nohup.out
+
+# Notebook checkpoints
+.ipynb_checkpoints/
